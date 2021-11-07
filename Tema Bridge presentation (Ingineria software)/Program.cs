@@ -16,8 +16,7 @@ namespace Tema_Bridge_presentation__Ingineria_software_
             ab.Implementor = new ConcreteImplementorB();
             ab.Operation();
 
-            // Wait for user
-            Console.ReadKey();
+
         }
     }
     
